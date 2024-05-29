@@ -1,4 +1,4 @@
-# Slime-VR-Hyperion-50m-straps
+# Slime-VR-Hyperion-50mm/2 inch-straps
 This repository is my personal jurney from crafting Slime VR trackers by following Lupinixx contribution
 You can find original post at https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
 
