@@ -5,9 +5,14 @@ You can find original post at https://github.com/Lupinixx/SlimeVR-Hyperion-BMI16
 Hope I can help more than 1 by sharing my experience!
 This proyect was build to fit 50mm (2 inch) straps
 
-##PCB
+## PCB
+The PCB was purchased direcly from the link provided on Lupinix contribution on PCBWay
+This link supports the creator! 
+https://www.pcbway.com/project/shareproject/SlimeVR_Hyperion_BMI160_PCB_ddd64fe3.html
 
-##Components
+If you want the file you can find it on original post linked at the beggining.
+
+## Components
 Recomended to purchase allways more in case of failure soldering or factory error.
 I bought 10 of each to build 8 trackers.
 
@@ -19,10 +24,11 @@ I bought 10 of each to build 8 trackers.
 - Battery 804040 1800 mAh or 2500 mAh ( 2500mAh used)
 - 1N5817 Diode (2x)
 - 180K Ohm resistor
-##Straps
+  
+## Straps
 
-##3D printables files
+## 3D printables files
 
-##Links 
+## Links 
 
-#Building jureny
+# Building jureny
