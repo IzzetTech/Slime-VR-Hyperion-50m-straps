@@ -1,9 +1,13 @@
+
 # Slime-VR-Hyperion-50mm/2 inch-straps
 This repository is my personal jurney from crafting Slime VR trackers by following Lupinixx contribution
 You can find original post at https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
 
 Hope I can help more than 1 by sharing my experience!
 This proyect was build to fit 50mm (2 inch) straps
+
+You can buy me an Apple Juice! 
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support Me on Ko-fi', '#e028d4', 'Z8Z5YSDRQ');kofiwidget2.draw();</script> 
 
 ## PCB
 The PCB was purchased direcly from the link provided on Lupinix contribution on PCBWay
